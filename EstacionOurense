@@ -173,8 +173,8 @@
                                                        </td><td class="listitem" style="padding: 10px 10px 0 0;color: #666666; font-weight: 200">Wi-Fi gratuito</td>
                                                      </tr>
                                                      <tr>
-                                                       <td style="padding: 0 10px 0 0;" valign="middle" height="50"><img src="http://www.aldahotels.es/firma/email/llegada/lavanderia.png">
-                                                       </td><td class="listitem" style="padding: 10px 10px 0 0;color: #666666; font-weight: 200">Lavandería</td>
+                                                       <td style="padding: 0 10px 0 0;" valign="middle" height="50"><img src="http://www.aldahotels.es/firma/email/llegada/restauracion.png">
+                                                       </td><td class="listitem" style="padding: 10px 10px 0 0;color: #666666; font-weight: 200">Desayuno</td>
                                                      </tr>
                                                      <tr>
                                                        <td style="padding: 0 10px 0 0;" valign="middle" height="50"><img src="http://www.aldahotels.es/firma/email/llegada/parking.png">
@@ -541,7 +541,7 @@
                                               <td align="justify" class="paragraph"  style="padding: 10px 0 0 0;"><p> <br>
                                                 <a href="https://www.google.com/maps/dir/?api=1&amp;destination=${object.company_id.property_name}%20${object.company_id.street}%20${object.company_id.city}">Pulsa en este enlace, para conocer cómo llegar desde tu ubicación actual</a> </p>
                                                 <!-- DATOS PARRAFO COCHE p -->
-                                                <p> Si vienes en coche, podrás aparcar en los alrededores del hotel de manera gratuita. También tienes la opción de utilizar el aparcamiento de la estación de tren (Parking Saba), que se encuentra a unos 200 metros.&nbsp;El precio es de 8 €/día. El ticket tendrá validez desde la hora de activación hasta las 23:59 horas del último día que aparece en la ficha. Cuenta con atención 24 horas, pero presencialmente de 7:00 a 23:00 horas. Podrás reservarlo en cualquier momento, antes o durante tu estancia.</p>                                              </tr>
+                                                <p> Si vienes en coche, te informamos de que es algo complicado aparcar en los alrededores del hotel, pero podrás hacerlo a escasos metros, en el aparcamiento de la estación de tren.</p>                                              </tr>
                                               <tr>
                                               </tr>
                                             </table>
@@ -584,8 +584,8 @@
                                             <tr>
                                               <td align="justify" class="paragraph"  style="padding: 10px 0 0 0;">
 <!-- DATOS AUTOBUS O TREN p -->
-<p> Si vienes en autobús, la estación se encuentra a 200 metros, aproximadamente. Podrás llegar al hotel desde la rúa Estación hacia la rúa do Gorgullón. Una vez en la rotonda, toma la primera salida en dirección a la rúa Eduardo Pondal.</p>
-<p>Si llegas en tren, la distancia desde la estación son unos 200 metros. En la primera rotonda que te encuentras al salir, toma la primera salida en dirección a la rúa Eduardo Pondal. </p><!-- DATOS AUTOBUS O TREN p -->
+<p> Si vienes en autobús, la estación se encuentra unos 700 metros. Te recomendamos situarte en la calle Eulogio Gómez Franqueira y caminar hasta la calle San Paio, donde está situado el hotel.</p>
+<p>Si vienes en tren, la estación está justo en frente, así que simplemente tendrás que cruzar la calle para llegar. </p><!-- DATOS AUTOBUS O TREN p -->
                                             </td>
                                           </tr>
                                           <tr>
@@ -619,7 +619,7 @@
                                             <tr>
                                               <td align="justify" class="paragraph"  style="padding: 10px 0 0 0;">
 <!-- DATOS CIUDAD -->
-<p> Parada obligada del Camino Portugués, Pontevedra es una de las ciudades gallegas con más encanto, con su casco antiguo como mejor ejemplo.</p></td>
+<p>Arte, patrimonio, gastronomía y termalismo se unen en una ciudad única. Ourense ofrece a quien la visita un paraje idílico de relax y disfrute.</p></td>
                                             </tr>
                                             <tr>
                                               <td style="padding: 20px 0 20px 0;  background-color:#F9F9F9">
@@ -630,7 +630,7 @@
                                                       <div style="border: 2px solid #5e96ea;">
                                                         <![endif]-->
                                                         <div style="border: 2px solid #C50967; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px;">
-<a href="http://www.visit-pontevedra.com/esp/" target="_blank" style="font-size: 12px; font-family: sans-serif; text-transform: uppercase; color: #C50967; border-color: #C50967; border: 2px solid #C50967; background-color: #ffffff; text-decoration: none; border-top: 12px solid #ffffff; border-bottom: 12px solid #ffffff; border-left: 12px solid #ffffff; border-right: 12px solid #ffffff; padding: 0 0 0 0; display: inline-block;">Más información</a>
+<a href="http://turismodeourense.gal/" target="_blank" style="font-size: 12px; font-family: sans-serif; text-transform: uppercase; color: #C50967; border-color: #C50967; border: 2px solid #C50967; background-color: #ffffff; text-decoration: none; border-top: 12px solid #ffffff; border-bottom: 12px solid #ffffff; border-left: 12px solid #ffffff; border-right: 12px solid #ffffff; padding: 0 0 0 0; display: inline-block;">Más información</a>
                                                         </div>
                                                         <!--[if gte mso 12>
                                                       </div>
@@ -652,7 +652,7 @@
                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                   <td valign="top" width="50%" height="280px">
-                                    <img src="https://www.aldahotels.es/firma/email/llegada/aep.jpg" alt="" width="330" border="0" />
+                                    <img src="https://www.aldahotels.es/firma/email/llegada/aeo.jpg" alt="" width="330" border="0" />
                                   </td>
                                 </tr>
                               </table>
@@ -663,7 +663,7 @@
                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                   <td valign="top" width="50%" height="280px">
-                                    <img src="https://www.aldahotels.es/firma/email/llegada/aep2.jpg" width="330" border="0" alt=""/>
+                                    <img src="https://www.aldahotels.es/firma/email/llegada/aeo2.jpg" width="330" border="0" alt=""/>
                                   </td>
                                 </tr>
                               </table>
@@ -682,7 +682,7 @@
                                             <tr>
                                               <td align="justify" class="paragraph"  style="padding: 10px 0 0 0;color: #FFFFFF;">
 <!-- DATOS HOTEL -->
-<p> El Hotel Alda Estación Pontevedra se encuentra en un lugar privilegiado en cuanto a comunicación. A dos minutos de las estaciones de tren y autobús; así como de la entrada a la autopista AP9, que conecta con Vigo, Santiago de Compostela y A Coruña, se trata de uno de los alojamientos mejor conectados de la ciudad. </p></td>
+<p> De nueva construcción, el Hotel Alda Estación Ourense presenta un diseño moderno y actual, prestando atención a cada detalle. Además, las últimas innovaciones tecnológicas están presentes para que la estancia del cliente sea realmente confortable. </p></td>
                                             </tr>
                                             <tr>
                                             </tr>
